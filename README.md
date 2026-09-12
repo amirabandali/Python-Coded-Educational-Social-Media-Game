@@ -8,6 +8,9 @@ This is a python-coded game using the pygame library that includes various types
 
 ## Python Game Code
 
+This is the python code for this project:
+[View Python-Coded-Educational-Social-Media-Game](Pygame%20Culminating%20Code.py)
+
 ---
 
 ## Demonstration Video
